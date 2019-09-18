@@ -1,0 +1,10 @@
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem16\bin\Debug\netcoreapp2.1\Problem16.deps.json
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem16\bin\Debug\netcoreapp2.1\Problem16.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem16\bin\Debug\netcoreapp2.1\Problem16.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem16\bin\Debug\netcoreapp2.1\Problem16.dll
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem16\bin\Debug\netcoreapp2.1\Problem16.pdb
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem16\obj\Debug\netcoreapp2.1\Problem16.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem16\obj\Debug\netcoreapp2.1\Problem16.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem16\obj\Debug\netcoreapp2.1\Problem16.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem16\obj\Debug\netcoreapp2.1\Problem16.dll
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem16\obj\Debug\netcoreapp2.1\Problem16.pdb

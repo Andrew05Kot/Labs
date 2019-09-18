@@ -1,0 +1,10 @@
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem15\bin\Debug\netcoreapp2.1\Problem15.deps.json
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem15\bin\Debug\netcoreapp2.1\Problem15.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem15\bin\Debug\netcoreapp2.1\Problem15.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem15\bin\Debug\netcoreapp2.1\Problem15.dll
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem15\bin\Debug\netcoreapp2.1\Problem15.pdb
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem15\obj\Debug\netcoreapp2.1\Problem15.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem15\obj\Debug\netcoreapp2.1\Problem15.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem15\obj\Debug\netcoreapp2.1\Problem15.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem15\obj\Debug\netcoreapp2.1\Problem15.dll
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem15\obj\Debug\netcoreapp2.1\Problem15.pdb
