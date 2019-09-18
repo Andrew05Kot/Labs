@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem11\bin\Debug\netcoreapp2.1\Problem11.deps.json
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem11\bin\Debug\netcoreapp2.1\Problem11.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem11\bin\Debug\netcoreapp2.1\Problem11.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem11\bin\Debug\netcoreapp2.1\Problem11.dll
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem11\bin\Debug\netcoreapp2.1\Problem11.pdb
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem11\obj\Debug\netcoreapp2.1\Problem11.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem11\obj\Debug\netcoreapp2.1\Problem11.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem11\obj\Debug\netcoreapp2.1\Problem11.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem11\obj\Debug\netcoreapp2.1\Problem11.dll
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem11\obj\Debug\netcoreapp2.1\Problem11.pdb
+C:\Users\andrey\Desktop\C#\лаба1\Laba_1\Problem11\obj\Debug\netcoreapp2.1\Problem11.csprojAssemblyReference.cache
