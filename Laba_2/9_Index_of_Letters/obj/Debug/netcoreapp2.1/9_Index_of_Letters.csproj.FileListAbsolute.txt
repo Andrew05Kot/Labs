@@ -1,0 +1,10 @@
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\9_Index_of_Letters\bin\Debug\netcoreapp2.1\9_Index_of_Letters.deps.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\9_Index_of_Letters\bin\Debug\netcoreapp2.1\9_Index_of_Letters.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\9_Index_of_Letters\bin\Debug\netcoreapp2.1\9_Index_of_Letters.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\9_Index_of_Letters\bin\Debug\netcoreapp2.1\9_Index_of_Letters.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\9_Index_of_Letters\bin\Debug\netcoreapp2.1\9_Index_of_Letters.pdb
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\9_Index_of_Letters\obj\Debug\netcoreapp2.1\9_Index_of_Letters.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\9_Index_of_Letters\obj\Debug\netcoreapp2.1\9_Index_of_Letters.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\9_Index_of_Letters\obj\Debug\netcoreapp2.1\9_Index_of_Letters.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\9_Index_of_Letters\obj\Debug\netcoreapp2.1\9_Index_of_Letters.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\9_Index_of_Letters\obj\Debug\netcoreapp2.1\9_Index_of_Letters.pdb
