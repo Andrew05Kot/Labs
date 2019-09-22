@@ -15,8 +15,6 @@ namespace _11_Equal_Sums
             int index = 0;
             bool b = false;
 
-
-
             for (int i = 0; i < arr.Length; i++)
             {
                 sum1 = 0;
