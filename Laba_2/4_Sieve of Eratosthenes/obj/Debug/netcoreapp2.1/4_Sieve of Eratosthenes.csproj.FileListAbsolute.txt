@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\4_Sieve of Eratosthenes\bin\Debug\netcoreapp2.1\4_Sieve of Eratosthenes.deps.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\4_Sieve of Eratosthenes\bin\Debug\netcoreapp2.1\4_Sieve of Eratosthenes.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\4_Sieve of Eratosthenes\bin\Debug\netcoreapp2.1\4_Sieve of Eratosthenes.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\4_Sieve of Eratosthenes\bin\Debug\netcoreapp2.1\4_Sieve of Eratosthenes.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\4_Sieve of Eratosthenes\bin\Debug\netcoreapp2.1\4_Sieve of Eratosthenes.pdb
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\4_Sieve of Eratosthenes\obj\Debug\netcoreapp2.1\4_Sieve of Eratosthenes.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\4_Sieve of Eratosthenes\obj\Debug\netcoreapp2.1\4_Sieve of Eratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\4_Sieve of Eratosthenes\obj\Debug\netcoreapp2.1\4_Sieve of Eratosthenes.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\4_Sieve of Eratosthenes\obj\Debug\netcoreapp2.1\4_Sieve of Eratosthenes.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\4_Sieve of Eratosthenes\obj\Debug\netcoreapp2.1\4_Sieve of Eratosthenes.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\4_Sieve of Eratosthenes\obj\Debug\netcoreapp2.1\4_Sieve of Eratosthenes.pdb
