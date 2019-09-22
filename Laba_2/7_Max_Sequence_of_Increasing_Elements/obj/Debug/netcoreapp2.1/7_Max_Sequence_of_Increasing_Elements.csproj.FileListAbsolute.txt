@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\7_Max_Sequence_of_Increasing_Elements\obj\Debug\netcoreapp2.1\7_Max_Sequence_of_Increasing_Elements.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\7_Max_Sequence_of_Increasing_Elements\obj\Debug\netcoreapp2.1\7_Max_Sequence_of_Increasing_Elements.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\7_Max_Sequence_of_Increasing_Elements\obj\Debug\netcoreapp2.1\7_Max_Sequence_of_Increasing_Elements.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\7_Max_Sequence_of_Increasing_Elements\obj\Debug\netcoreapp2.1\7_Max_Sequence_of_Increasing_Elements.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\7_Max_Sequence_of_Increasing_Elements\bin\Debug\netcoreapp2.1\7_Max_Sequence_of_Increasing_Elements.deps.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\7_Max_Sequence_of_Increasing_Elements\bin\Debug\netcoreapp2.1\7_Max_Sequence_of_Increasing_Elements.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\7_Max_Sequence_of_Increasing_Elements\bin\Debug\netcoreapp2.1\7_Max_Sequence_of_Increasing_Elements.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\7_Max_Sequence_of_Increasing_Elements\bin\Debug\netcoreapp2.1\7_Max_Sequence_of_Increasing_Elements.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\7_Max_Sequence_of_Increasing_Elements\bin\Debug\netcoreapp2.1\7_Max_Sequence_of_Increasing_Elements.pdb
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\7_Max_Sequence_of_Increasing_Elements\obj\Debug\netcoreapp2.1\7_Max_Sequence_of_Increasing_Elements.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\7_Max_Sequence_of_Increasing_Elements\obj\Debug\netcoreapp2.1\7_Max_Sequence_of_Increasing_Elements.pdb
