@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\6_Max_Sequence_of_Equal_Elements\bin\Debug\netcoreapp2.1\6_Max_Sequence_of_Equal_Elements.deps.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\6_Max_Sequence_of_Equal_Elements\bin\Debug\netcoreapp2.1\6_Max_Sequence_of_Equal_Elements.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\6_Max_Sequence_of_Equal_Elements\bin\Debug\netcoreapp2.1\6_Max_Sequence_of_Equal_Elements.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\6_Max_Sequence_of_Equal_Elements\bin\Debug\netcoreapp2.1\6_Max_Sequence_of_Equal_Elements.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\6_Max_Sequence_of_Equal_Elements\bin\Debug\netcoreapp2.1\6_Max_Sequence_of_Equal_Elements.pdb
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\6_Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp2.1\6_Max_Sequence_of_Equal_Elements.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\6_Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp2.1\6_Max_Sequence_of_Equal_Elements.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\6_Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp2.1\6_Max_Sequence_of_Equal_Elements.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\6_Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp2.1\6_Max_Sequence_of_Equal_Elements.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\6_Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp2.1\6_Max_Sequence_of_Equal_Elements.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\6_Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp2.1\6_Max_Sequence_of_Equal_Elements.pdb
