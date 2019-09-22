@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Linq;
+using System;
+using System.Linq;
 
 namespace _11_Equal_Sums
 {
@@ -8,34 +10,35 @@ namespace _11_Equal_Sums
         static void Main(string[] args)
         {
             Console.Write("Array: ");
+
             int[] arr = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
             int sum1 = 0, sum2 = 0;
-            int index=0;
+            int index = 0;
             bool b = false;
 
-           
+
 
             for (int i = 0; i < arr.Length; i++)
             {
-                for(int j1 = 0; j1 < i; j1++)
+                sum1 = 0;
+                sum2 = 0;
+                for (int j = 0; j < i; j++)
                 {
-                    sum1 += arr[j1];
+                    sum1 += arr[j];
                 }
-                for (int j1 = i; j1 < arr.Length; j1++)
+                for (int j = i+1; j < arr.Length; j++)
                 {
-                    sum2 += arr[j1];
+                    sum2 += arr[j];
                 }
                 if (sum1 == sum2)
                 {
                     index = i;
                     b = true;
-                    break;  
-                }
-                else
-                {
-                    b = false;
+                    break;
                 }
             }
+
             if (b == true)
             {
                 Console.WriteLine(index);
@@ -44,7 +47,7 @@ namespace _11_Equal_Sums
             {
                 Console.WriteLine("no");
             }
-            
         }
     }
 }
+
