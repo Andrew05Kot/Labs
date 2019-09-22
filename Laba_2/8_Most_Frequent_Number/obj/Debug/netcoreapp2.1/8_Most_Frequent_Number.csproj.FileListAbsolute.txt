@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\8_Most_Frequent_Number\bin\Debug\netcoreapp2.1\8_Most_Frequent_Number.deps.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\8_Most_Frequent_Number\bin\Debug\netcoreapp2.1\8_Most_Frequent_Number.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\8_Most_Frequent_Number\bin\Debug\netcoreapp2.1\8_Most_Frequent_Number.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\8_Most_Frequent_Number\bin\Debug\netcoreapp2.1\8_Most_Frequent_Number.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\8_Most_Frequent_Number\bin\Debug\netcoreapp2.1\8_Most_Frequent_Number.pdb
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\8_Most_Frequent_Number\obj\Debug\netcoreapp2.1\8_Most_Frequent_Number.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\8_Most_Frequent_Number\obj\Debug\netcoreapp2.1\8_Most_Frequent_Number.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\8_Most_Frequent_Number\obj\Debug\netcoreapp2.1\8_Most_Frequent_Number.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\8_Most_Frequent_Number\obj\Debug\netcoreapp2.1\8_Most_Frequent_Number.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\8_Most_Frequent_Number\obj\Debug\netcoreapp2.1\8_Most_Frequent_Number.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\8_Most_Frequent_Number\obj\Debug\netcoreapp2.1\8_Most_Frequent_Number.pdb
