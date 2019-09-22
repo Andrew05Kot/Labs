@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\5_Compare Char Arrays\bin\Debug\netcoreapp2.1\5_Compare Char Arrays.deps.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\5_Compare Char Arrays\bin\Debug\netcoreapp2.1\5_Compare Char Arrays.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\5_Compare Char Arrays\bin\Debug\netcoreapp2.1\5_Compare Char Arrays.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\5_Compare Char Arrays\bin\Debug\netcoreapp2.1\5_Compare Char Arrays.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\5_Compare Char Arrays\bin\Debug\netcoreapp2.1\5_Compare Char Arrays.pdb
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\5_Compare Char Arrays\obj\Debug\netcoreapp2.1\5_Compare Char Arrays.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\5_Compare Char Arrays\obj\Debug\netcoreapp2.1\5_Compare Char Arrays.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\5_Compare Char Arrays\obj\Debug\netcoreapp2.1\5_Compare Char Arrays.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\5_Compare Char Arrays\obj\Debug\netcoreapp2.1\5_Compare Char Arrays.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\5_Compare Char Arrays\obj\Debug\netcoreapp2.1\5_Compare Char Arrays.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\5_Compare Char Arrays\obj\Debug\netcoreapp2.1\5_Compare Char Arrays.pdb
