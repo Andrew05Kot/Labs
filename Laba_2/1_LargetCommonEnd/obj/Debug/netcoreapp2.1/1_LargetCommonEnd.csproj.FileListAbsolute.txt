@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\1_LargetCommonEnd\bin\Debug\netcoreapp2.1\1_LargetCommonEnd.deps.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\1_LargetCommonEnd\bin\Debug\netcoreapp2.1\1_LargetCommonEnd.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\1_LargetCommonEnd\bin\Debug\netcoreapp2.1\1_LargetCommonEnd.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\1_LargetCommonEnd\bin\Debug\netcoreapp2.1\1_LargetCommonEnd.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\1_LargetCommonEnd\bin\Debug\netcoreapp2.1\1_LargetCommonEnd.pdb
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\1_LargetCommonEnd\obj\Debug\netcoreapp2.1\1_LargetCommonEnd.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\1_LargetCommonEnd\obj\Debug\netcoreapp2.1\1_LargetCommonEnd.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\1_LargetCommonEnd\obj\Debug\netcoreapp2.1\1_LargetCommonEnd.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\1_LargetCommonEnd\obj\Debug\netcoreapp2.1\1_LargetCommonEnd.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\1_LargetCommonEnd\obj\Debug\netcoreapp2.1\1_LargetCommonEnd.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\1_LargetCommonEnd\obj\Debug\netcoreapp2.1\1_LargetCommonEnd.pdb

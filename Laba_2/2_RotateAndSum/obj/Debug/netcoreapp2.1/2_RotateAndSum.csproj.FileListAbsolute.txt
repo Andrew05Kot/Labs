@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\2_RotateAndSum\bin\Debug\netcoreapp2.1\2_RotateAndSum.deps.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\2_RotateAndSum\bin\Debug\netcoreapp2.1\2_RotateAndSum.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\2_RotateAndSum\bin\Debug\netcoreapp2.1\2_RotateAndSum.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\2_RotateAndSum\bin\Debug\netcoreapp2.1\2_RotateAndSum.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\2_RotateAndSum\bin\Debug\netcoreapp2.1\2_RotateAndSum.pdb
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\2_RotateAndSum\obj\Debug\netcoreapp2.1\2_RotateAndSum.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\2_RotateAndSum\obj\Debug\netcoreapp2.1\2_RotateAndSum.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\2_RotateAndSum\obj\Debug\netcoreapp2.1\2_RotateAndSum.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\2_RotateAndSum\obj\Debug\netcoreapp2.1\2_RotateAndSum.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\2_RotateAndSum\obj\Debug\netcoreapp2.1\2_RotateAndSum.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\2_RotateAndSum\obj\Debug\netcoreapp2.1\2_RotateAndSum.pdb

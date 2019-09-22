@@ -1,0 +1,10 @@
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\11_Equal_Sums\bin\Debug\netcoreapp2.1\11_Equal_Sums.deps.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\11_Equal_Sums\bin\Debug\netcoreapp2.1\11_Equal_Sums.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\11_Equal_Sums\bin\Debug\netcoreapp2.1\11_Equal_Sums.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\11_Equal_Sums\bin\Debug\netcoreapp2.1\11_Equal_Sums.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\11_Equal_Sums\bin\Debug\netcoreapp2.1\11_Equal_Sums.pdb
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\11_Equal_Sums\obj\Debug\netcoreapp2.1\11_Equal_Sums.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\11_Equal_Sums\obj\Debug\netcoreapp2.1\11_Equal_Sums.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\11_Equal_Sums\obj\Debug\netcoreapp2.1\11_Equal_Sums.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\11_Equal_Sums\obj\Debug\netcoreapp2.1\11_Equal_Sums.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\11_Equal_Sums\obj\Debug\netcoreapp2.1\11_Equal_Sums.pdb

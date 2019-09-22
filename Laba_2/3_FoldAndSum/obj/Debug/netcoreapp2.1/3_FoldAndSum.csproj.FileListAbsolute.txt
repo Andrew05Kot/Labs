@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\3_FoldAndSum\bin\Debug\netcoreapp2.1\3_FoldAndSum.deps.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\3_FoldAndSum\bin\Debug\netcoreapp2.1\3_FoldAndSum.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\3_FoldAndSum\bin\Debug\netcoreapp2.1\3_FoldAndSum.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\3_FoldAndSum\bin\Debug\netcoreapp2.1\3_FoldAndSum.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\3_FoldAndSum\bin\Debug\netcoreapp2.1\3_FoldAndSum.pdb
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\3_FoldAndSum\obj\Debug\netcoreapp2.1\3_FoldAndSum.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\3_FoldAndSum\obj\Debug\netcoreapp2.1\3_FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\3_FoldAndSum\obj\Debug\netcoreapp2.1\3_FoldAndSum.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\3_FoldAndSum\obj\Debug\netcoreapp2.1\3_FoldAndSum.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\3_FoldAndSum\obj\Debug\netcoreapp2.1\3_FoldAndSum.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\3_FoldAndSum\obj\Debug\netcoreapp2.1\3_FoldAndSum.pdb

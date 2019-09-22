@@ -1,0 +1,10 @@
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\10_Pairs_by_Difference\bin\Debug\netcoreapp2.1\10_Pairs_by_Difference.deps.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\10_Pairs_by_Difference\bin\Debug\netcoreapp2.1\10_Pairs_by_Difference.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\10_Pairs_by_Difference\bin\Debug\netcoreapp2.1\10_Pairs_by_Difference.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\10_Pairs_by_Difference\bin\Debug\netcoreapp2.1\10_Pairs_by_Difference.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\10_Pairs_by_Difference\bin\Debug\netcoreapp2.1\10_Pairs_by_Difference.pdb
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\10_Pairs_by_Difference\obj\Debug\netcoreapp2.1\10_Pairs_by_Difference.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\10_Pairs_by_Difference\obj\Debug\netcoreapp2.1\10_Pairs_by_Difference.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\10_Pairs_by_Difference\obj\Debug\netcoreapp2.1\10_Pairs_by_Difference.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\10_Pairs_by_Difference\obj\Debug\netcoreapp2.1\10_Pairs_by_Difference.dll
+C:\Users\andrey\Desktop\C#\лаба2\Laba_2\10_Pairs_by_Difference\obj\Debug\netcoreapp2.1\10_Pairs_by_Difference.pdb
