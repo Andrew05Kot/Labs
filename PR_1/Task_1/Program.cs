@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using System.Collections.Generic;
 using System.Text;
@@ -36,7 +36,10 @@ namespace Task_1
 
             for (int i = 0; i < n; i++)
             {
-                Persons[i].Display();
+                if(Convert.ToInt32(Persons[i].queueCount) == 1)
+                {
+                    Persons[i].Display();
+                }
             }
 
             /*Приклад введення даних:
@@ -53,3 +56,4 @@ namespace Task_1
         }
     }
 }
+
