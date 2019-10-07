@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -54,20 +54,10 @@ namespace Task_1
                 Occupation = value;
             }
         }
-        private int queueCount;
-        public int QueueCount
-        {
-            get
-            {
-                return QueueCount;
-            }
-            set
-            {
-                QueueCount = value;
-            }
-        }
+        public int queueCount;
+
         public int[] Date { get; set; }
-        public Queue(string surname, string name, int[] data, string sex, string occupation, int QueueCount)
+        public Queue(string surname, string name, int[] data, string sex, string occupation, int queueCount)
             :base(surname, name, data, sex, occupation)
         {
             this.name = name;
@@ -75,7 +65,7 @@ namespace Task_1
             this.Date = data;
             this.sex = sex;
             this.occupation = occupation;
-            this.queueCount = QueueCount;
+            this.queueCount = queueCount;
         }
         
         public override void Display()
