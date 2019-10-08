@@ -1,0 +1,11 @@
+C:\Users\andrey\source\repos\Laba_3\1_Define_a_Class_Person\obj\Debug\netcoreapp2.1\1_Define_a_Class_Person.csprojAssemblyReference.cache
+C:\Users\andrey\source\repos\Laba_3\1_Define_a_Class_Person\obj\Debug\netcoreapp2.1\1_Define_a_Class_Person.csproj.CoreCompileInputs.cache
+C:\Users\andrey\source\repos\Laba_3\1_Define_a_Class_Person\obj\Debug\netcoreapp2.1\1_Define_a_Class_Person.AssemblyInfoInputs.cache
+C:\Users\andrey\source\repos\Laba_3\1_Define_a_Class_Person\obj\Debug\netcoreapp2.1\1_Define_a_Class_Person.AssemblyInfo.cs
+C:\Users\andrey\source\repos\Laba_3\1_Define_a_Class_Person\bin\Debug\netcoreapp2.1\1_Define_a_Class_Person.deps.json
+C:\Users\andrey\source\repos\Laba_3\1_Define_a_Class_Person\bin\Debug\netcoreapp2.1\1_Define_a_Class_Person.runtimeconfig.json
+C:\Users\andrey\source\repos\Laba_3\1_Define_a_Class_Person\bin\Debug\netcoreapp2.1\1_Define_a_Class_Person.runtimeconfig.dev.json
+C:\Users\andrey\source\repos\Laba_3\1_Define_a_Class_Person\bin\Debug\netcoreapp2.1\1_Define_a_Class_Person.dll
+C:\Users\andrey\source\repos\Laba_3\1_Define_a_Class_Person\bin\Debug\netcoreapp2.1\1_Define_a_Class_Person.pdb
+C:\Users\andrey\source\repos\Laba_3\1_Define_a_Class_Person\obj\Debug\netcoreapp2.1\1_Define_a_Class_Person.dll
+C:\Users\andrey\source\repos\Laba_3\1_Define_a_Class_Person\obj\Debug\netcoreapp2.1\1_Define_a_Class_Person.pdb
