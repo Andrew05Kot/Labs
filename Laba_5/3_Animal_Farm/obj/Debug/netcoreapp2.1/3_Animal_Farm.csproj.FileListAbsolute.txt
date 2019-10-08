@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\3_Animal_Farm\bin\Debug\netcoreapp2.1\3_Animal_Farm.deps.json
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\3_Animal_Farm\bin\Debug\netcoreapp2.1\3_Animal_Farm.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\3_Animal_Farm\bin\Debug\netcoreapp2.1\3_Animal_Farm.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\3_Animal_Farm\bin\Debug\netcoreapp2.1\3_Animal_Farm.dll
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\3_Animal_Farm\bin\Debug\netcoreapp2.1\3_Animal_Farm.pdb
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\3_Animal_Farm\obj\Debug\netcoreapp2.1\3_Animal_Farm.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\3_Animal_Farm\obj\Debug\netcoreapp2.1\3_Animal_Farm.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\3_Animal_Farm\obj\Debug\netcoreapp2.1\3_Animal_Farm.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\3_Animal_Farm\obj\Debug\netcoreapp2.1\3_Animal_Farm.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\3_Animal_Farm\obj\Debug\netcoreapp2.1\3_Animal_Farm.dll
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\3_Animal_Farm\obj\Debug\netcoreapp2.1\3_Animal_Farm.pdb

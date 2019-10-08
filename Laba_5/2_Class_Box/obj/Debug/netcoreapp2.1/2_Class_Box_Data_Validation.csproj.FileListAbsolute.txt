@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\Class_Box\bin\Debug\netcoreapp2.1\2_Class_Box_Data_Validation.deps.json
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\Class_Box\bin\Debug\netcoreapp2.1\2_Class_Box_Data_Validation.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\Class_Box\bin\Debug\netcoreapp2.1\2_Class_Box_Data_Validation.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\Class_Box\bin\Debug\netcoreapp2.1\2_Class_Box_Data_Validation.dll
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\Class_Box\bin\Debug\netcoreapp2.1\2_Class_Box_Data_Validation.pdb
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\Class_Box\obj\Debug\netcoreapp2.1\2_Class_Box_Data_Validation.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\Class_Box\obj\Debug\netcoreapp2.1\2_Class_Box_Data_Validation.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\Class_Box\obj\Debug\netcoreapp2.1\2_Class_Box_Data_Validation.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\Class_Box\obj\Debug\netcoreapp2.1\2_Class_Box_Data_Validation.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\Class_Box\obj\Debug\netcoreapp2.1\2_Class_Box_Data_Validation.dll
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\Class_Box\obj\Debug\netcoreapp2.1\2_Class_Box_Data_Validation.pdb

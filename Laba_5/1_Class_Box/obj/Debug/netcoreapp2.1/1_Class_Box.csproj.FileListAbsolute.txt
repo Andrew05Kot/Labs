@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\1_Class_Box\bin\Debug\netcoreapp2.1\1_Class_Box.deps.json
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\1_Class_Box\bin\Debug\netcoreapp2.1\1_Class_Box.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\1_Class_Box\bin\Debug\netcoreapp2.1\1_Class_Box.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\1_Class_Box\bin\Debug\netcoreapp2.1\1_Class_Box.dll
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\1_Class_Box\bin\Debug\netcoreapp2.1\1_Class_Box.pdb
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\1_Class_Box\obj\Debug\netcoreapp2.1\1_Class_Box.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\1_Class_Box\obj\Debug\netcoreapp2.1\1_Class_Box.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\1_Class_Box\obj\Debug\netcoreapp2.1\1_Class_Box.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\1_Class_Box\obj\Debug\netcoreapp2.1\1_Class_Box.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\1_Class_Box\obj\Debug\netcoreapp2.1\1_Class_Box.dll
+C:\Users\andrey\Desktop\C#\лаба5\Laba_5\1_Class_Box\obj\Debug\netcoreapp2.1\1_Class_Box.pdb
