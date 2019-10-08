@@ -1,0 +1,11 @@
+C:\Users\andrey\source\repos\Laba_3\14_Lady_Cat\bin\Debug\netcoreapp2.1\14_Lady_Cat.deps.json
+C:\Users\andrey\source\repos\Laba_3\14_Lady_Cat\bin\Debug\netcoreapp2.1\14_Lady_Cat.runtimeconfig.json
+C:\Users\andrey\source\repos\Laba_3\14_Lady_Cat\bin\Debug\netcoreapp2.1\14_Lady_Cat.runtimeconfig.dev.json
+C:\Users\andrey\source\repos\Laba_3\14_Lady_Cat\bin\Debug\netcoreapp2.1\14_Lady_Cat.dll
+C:\Users\andrey\source\repos\Laba_3\14_Lady_Cat\bin\Debug\netcoreapp2.1\14_Lady_Cat.pdb
+C:\Users\andrey\source\repos\Laba_3\14_Lady_Cat\obj\Debug\netcoreapp2.1\14_Lady_Cat.csproj.CoreCompileInputs.cache
+C:\Users\andrey\source\repos\Laba_3\14_Lady_Cat\obj\Debug\netcoreapp2.1\14_Lady_Cat.AssemblyInfoInputs.cache
+C:\Users\andrey\source\repos\Laba_3\14_Lady_Cat\obj\Debug\netcoreapp2.1\14_Lady_Cat.AssemblyInfo.cs
+C:\Users\andrey\source\repos\Laba_3\14_Lady_Cat\obj\Debug\netcoreapp2.1\14_Lady_Cat.dll
+C:\Users\andrey\source\repos\Laba_3\14_Lady_Cat\obj\Debug\netcoreapp2.1\14_Lady_Cat.pdb
+C:\Users\andrey\source\repos\Laba_3\14_Lady_Cat\obj\Debug\netcoreapp2.1\14_Lady_Cat.csprojAssemblyReference.cache
