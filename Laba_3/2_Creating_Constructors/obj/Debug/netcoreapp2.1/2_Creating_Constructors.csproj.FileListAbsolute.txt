@@ -1,0 +1,11 @@
+C:\Users\andrey\source\repos\Laba_3\2_Creating_Constructors\bin\Debug\netcoreapp2.1\2_Creating_Constructors.deps.json
+C:\Users\andrey\source\repos\Laba_3\2_Creating_Constructors\bin\Debug\netcoreapp2.1\2_Creating_Constructors.runtimeconfig.json
+C:\Users\andrey\source\repos\Laba_3\2_Creating_Constructors\bin\Debug\netcoreapp2.1\2_Creating_Constructors.runtimeconfig.dev.json
+C:\Users\andrey\source\repos\Laba_3\2_Creating_Constructors\bin\Debug\netcoreapp2.1\2_Creating_Constructors.dll
+C:\Users\andrey\source\repos\Laba_3\2_Creating_Constructors\bin\Debug\netcoreapp2.1\2_Creating_Constructors.pdb
+C:\Users\andrey\source\repos\Laba_3\2_Creating_Constructors\obj\Debug\netcoreapp2.1\2_Creating_Constructors.csprojAssemblyReference.cache
+C:\Users\andrey\source\repos\Laba_3\2_Creating_Constructors\obj\Debug\netcoreapp2.1\2_Creating_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\andrey\source\repos\Laba_3\2_Creating_Constructors\obj\Debug\netcoreapp2.1\2_Creating_Constructors.AssemblyInfoInputs.cache
+C:\Users\andrey\source\repos\Laba_3\2_Creating_Constructors\obj\Debug\netcoreapp2.1\2_Creating_Constructors.AssemblyInfo.cs
+C:\Users\andrey\source\repos\Laba_3\2_Creating_Constructors\obj\Debug\netcoreapp2.1\2_Creating_Constructors.dll
+C:\Users\andrey\source\repos\Laba_3\2_Creating_Constructors\obj\Debug\netcoreapp2.1\2_Creating_Constructors.pdb
