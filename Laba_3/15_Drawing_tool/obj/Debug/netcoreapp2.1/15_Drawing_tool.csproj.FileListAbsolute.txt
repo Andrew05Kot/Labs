@@ -1,0 +1,11 @@
+C:\Users\andrey\source\repos\Laba_3\15_Drawing_tool\bin\Debug\netcoreapp2.1\15_Drawing_tool.deps.json
+C:\Users\andrey\source\repos\Laba_3\15_Drawing_tool\bin\Debug\netcoreapp2.1\15_Drawing_tool.runtimeconfig.json
+C:\Users\andrey\source\repos\Laba_3\15_Drawing_tool\bin\Debug\netcoreapp2.1\15_Drawing_tool.runtimeconfig.dev.json
+C:\Users\andrey\source\repos\Laba_3\15_Drawing_tool\bin\Debug\netcoreapp2.1\15_Drawing_tool.dll
+C:\Users\andrey\source\repos\Laba_3\15_Drawing_tool\bin\Debug\netcoreapp2.1\15_Drawing_tool.pdb
+C:\Users\andrey\source\repos\Laba_3\15_Drawing_tool\obj\Debug\netcoreapp2.1\15_Drawing_tool.csproj.CoreCompileInputs.cache
+C:\Users\andrey\source\repos\Laba_3\15_Drawing_tool\obj\Debug\netcoreapp2.1\15_Drawing_tool.AssemblyInfoInputs.cache
+C:\Users\andrey\source\repos\Laba_3\15_Drawing_tool\obj\Debug\netcoreapp2.1\15_Drawing_tool.AssemblyInfo.cs
+C:\Users\andrey\source\repos\Laba_3\15_Drawing_tool\obj\Debug\netcoreapp2.1\15_Drawing_tool.dll
+C:\Users\andrey\source\repos\Laba_3\15_Drawing_tool\obj\Debug\netcoreapp2.1\15_Drawing_tool.pdb
+C:\Users\andrey\source\repos\Laba_3\15_Drawing_tool\obj\Debug\netcoreapp2.1\15_Drawing_tool.csprojAssemblyReference.cache
