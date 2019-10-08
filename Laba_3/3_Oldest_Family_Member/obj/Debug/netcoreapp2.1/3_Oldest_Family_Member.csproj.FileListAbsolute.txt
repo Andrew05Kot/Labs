@@ -1,0 +1,11 @@
+C:\Users\andrey\source\repos\Laba_3\3_Oldest_Family_Member\bin\Debug\netcoreapp2.1\3_Oldest_Family_Member.deps.json
+C:\Users\andrey\source\repos\Laba_3\3_Oldest_Family_Member\bin\Debug\netcoreapp2.1\3_Oldest_Family_Member.runtimeconfig.json
+C:\Users\andrey\source\repos\Laba_3\3_Oldest_Family_Member\bin\Debug\netcoreapp2.1\3_Oldest_Family_Member.runtimeconfig.dev.json
+C:\Users\andrey\source\repos\Laba_3\3_Oldest_Family_Member\bin\Debug\netcoreapp2.1\3_Oldest_Family_Member.dll
+C:\Users\andrey\source\repos\Laba_3\3_Oldest_Family_Member\bin\Debug\netcoreapp2.1\3_Oldest_Family_Member.pdb
+C:\Users\andrey\source\repos\Laba_3\3_Oldest_Family_Member\obj\Debug\netcoreapp2.1\3_Oldest_Family_Member.csproj.CoreCompileInputs.cache
+C:\Users\andrey\source\repos\Laba_3\3_Oldest_Family_Member\obj\Debug\netcoreapp2.1\3_Oldest_Family_Member.AssemblyInfoInputs.cache
+C:\Users\andrey\source\repos\Laba_3\3_Oldest_Family_Member\obj\Debug\netcoreapp2.1\3_Oldest_Family_Member.AssemblyInfo.cs
+C:\Users\andrey\source\repos\Laba_3\3_Oldest_Family_Member\obj\Debug\netcoreapp2.1\3_Oldest_Family_Member.dll
+C:\Users\andrey\source\repos\Laba_3\3_Oldest_Family_Member\obj\Debug\netcoreapp2.1\3_Oldest_Family_Member.pdb
+C:\Users\andrey\source\repos\Laba_3\3_Oldest_Family_Member\obj\Debug\netcoreapp2.1\3_Oldest_Family_Member.csprojAssemblyReference.cache
