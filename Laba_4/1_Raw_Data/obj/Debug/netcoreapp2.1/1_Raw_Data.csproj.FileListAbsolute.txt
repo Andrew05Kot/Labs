@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\1_Raw_Data\obj\Debug\netcoreapp2.1\1_Raw_Data.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\1_Raw_Data\obj\Debug\netcoreapp2.1\1_Raw_Data.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\1_Raw_Data\obj\Debug\netcoreapp2.1\1_Raw_Data.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\1_Raw_Data\obj\Debug\netcoreapp2.1\1_Raw_Data.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\1_Raw_Data\bin\Debug\netcoreapp2.1\1_Raw_Data.deps.json
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\1_Raw_Data\bin\Debug\netcoreapp2.1\1_Raw_Data.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\1_Raw_Data\bin\Debug\netcoreapp2.1\1_Raw_Data.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\1_Raw_Data\bin\Debug\netcoreapp2.1\1_Raw_Data.dll
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\1_Raw_Data\bin\Debug\netcoreapp2.1\1_Raw_Data.pdb
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\1_Raw_Data\obj\Debug\netcoreapp2.1\1_Raw_Data.dll
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\1_Raw_Data\obj\Debug\netcoreapp2.1\1_Raw_Data.pdb
