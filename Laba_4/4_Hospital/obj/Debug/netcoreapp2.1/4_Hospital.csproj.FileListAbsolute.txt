@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\4_Hospital\obj\Debug\netcoreapp2.1\4_Hospital.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\4_Hospital\obj\Debug\netcoreapp2.1\4_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\4_Hospital\obj\Debug\netcoreapp2.1\4_Hospital.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\4_Hospital\obj\Debug\netcoreapp2.1\4_Hospital.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\4_Hospital\bin\Debug\netcoreapp2.1\4_Hospital.deps.json
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\4_Hospital\bin\Debug\netcoreapp2.1\4_Hospital.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\4_Hospital\bin\Debug\netcoreapp2.1\4_Hospital.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\4_Hospital\bin\Debug\netcoreapp2.1\4_Hospital.dll
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\4_Hospital\bin\Debug\netcoreapp2.1\4_Hospital.pdb
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\4_Hospital\obj\Debug\netcoreapp2.1\4_Hospital.dll
+C:\Users\andrey\Desktop\C#\лаба4\Laba_4\4_Hospital\obj\Debug\netcoreapp2.1\4_Hospital.pdb
