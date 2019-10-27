@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\02_King’s_Gambit\bin\Debug\netcoreapp2.1\02_King’s_Gambit.deps.json
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\02_King’s_Gambit\bin\Debug\netcoreapp2.1\02_King’s_Gambit.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\02_King’s_Gambit\bin\Debug\netcoreapp2.1\02_King’s_Gambit.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\02_King’s_Gambit\bin\Debug\netcoreapp2.1\02_King’s_Gambit.dll
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\02_King’s_Gambit\bin\Debug\netcoreapp2.1\02_King’s_Gambit.pdb
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\02_King’s_Gambit\obj\Debug\netcoreapp2.1\02_King’s_Gambit.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\02_King’s_Gambit\obj\Debug\netcoreapp2.1\02_King’s_Gambit.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\02_King’s_Gambit\obj\Debug\netcoreapp2.1\02_King’s_Gambit.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\02_King’s_Gambit\obj\Debug\netcoreapp2.1\02_King’s_Gambit.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\02_King’s_Gambit\obj\Debug\netcoreapp2.1\02_King’s_Gambit.dll
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\02_King’s_Gambit\obj\Debug\netcoreapp2.1\02_King’s_Gambit.pdb

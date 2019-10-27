@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\1_Event_Implementation\bin\Debug\netcoreapp2.1\1_Event_Implementation.deps.json
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\1_Event_Implementation\bin\Debug\netcoreapp2.1\1_Event_Implementation.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\1_Event_Implementation\bin\Debug\netcoreapp2.1\1_Event_Implementation.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\1_Event_Implementation\bin\Debug\netcoreapp2.1\1_Event_Implementation.dll
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\1_Event_Implementation\bin\Debug\netcoreapp2.1\1_Event_Implementation.pdb
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\1_Event_Implementation\obj\Debug\netcoreapp2.1\1_Event_Implementation.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\1_Event_Implementation\obj\Debug\netcoreapp2.1\1_Event_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\1_Event_Implementation\obj\Debug\netcoreapp2.1\1_Event_Implementation.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\1_Event_Implementation\obj\Debug\netcoreapp2.1\1_Event_Implementation.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\1_Event_Implementation\obj\Debug\netcoreapp2.1\1_Event_Implementation.dll
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\1_Event_Implementation\obj\Debug\netcoreapp2.1\1_Event_Implementation.pdb

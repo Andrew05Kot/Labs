@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\3_Dependency_Inversion\bin\Debug\netcoreapp2.1\03_Dependency_Inversion.deps.json
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\3_Dependency_Inversion\bin\Debug\netcoreapp2.1\03_Dependency_Inversion.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\3_Dependency_Inversion\bin\Debug\netcoreapp2.1\03_Dependency_Inversion.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\3_Dependency_Inversion\bin\Debug\netcoreapp2.1\03_Dependency_Inversion.dll
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\3_Dependency_Inversion\bin\Debug\netcoreapp2.1\03_Dependency_Inversion.pdb
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\3_Dependency_Inversion\obj\Debug\netcoreapp2.1\03_Dependency_Inversion.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\3_Dependency_Inversion\obj\Debug\netcoreapp2.1\03_Dependency_Inversion.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\3_Dependency_Inversion\obj\Debug\netcoreapp2.1\03_Dependency_Inversion.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\3_Dependency_Inversion\obj\Debug\netcoreapp2.1\03_Dependency_Inversion.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\3_Dependency_Inversion\obj\Debug\netcoreapp2.1\03_Dependency_Inversion.dll
+C:\Users\andrey\Desktop\C#\Лаба12\laba_12\3_Dependency_Inversion\obj\Debug\netcoreapp2.1\03_Dependency_Inversion.pdb
