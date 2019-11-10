@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба6\Laba_6\5_Mordor’s_Cruel_Plan\bin\Debug\netcoreapp2.1\5_Mordor’s_Cruel_Plan.deps.json
+C:\Users\andrey\Desktop\C#\лаба6\Laba_6\5_Mordor’s_Cruel_Plan\bin\Debug\netcoreapp2.1\5_Mordor’s_Cruel_Plan.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба6\Laba_6\5_Mordor’s_Cruel_Plan\bin\Debug\netcoreapp2.1\5_Mordor’s_Cruel_Plan.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба6\Laba_6\5_Mordor’s_Cruel_Plan\bin\Debug\netcoreapp2.1\5_Mordor’s_Cruel_Plan.dll
+C:\Users\andrey\Desktop\C#\лаба6\Laba_6\5_Mordor’s_Cruel_Plan\bin\Debug\netcoreapp2.1\5_Mordor’s_Cruel_Plan.pdb
+C:\Users\andrey\Desktop\C#\лаба6\Laba_6\5_Mordor’s_Cruel_Plan\obj\Debug\netcoreapp2.1\5_Mordor’s_Cruel_Plan.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба6\Laba_6\5_Mordor’s_Cruel_Plan\obj\Debug\netcoreapp2.1\5_Mordor’s_Cruel_Plan.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба6\Laba_6\5_Mordor’s_Cruel_Plan\obj\Debug\netcoreapp2.1\5_Mordor’s_Cruel_Plan.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба6\Laba_6\5_Mordor’s_Cruel_Plan\obj\Debug\netcoreapp2.1\5_Mordor’s_Cruel_Plan.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба6\Laba_6\5_Mordor’s_Cruel_Plan\obj\Debug\netcoreapp2.1\5_Mordor’s_Cruel_Plan.dll
+C:\Users\andrey\Desktop\C#\лаба6\Laba_6\5_Mordor’s_Cruel_Plan\obj\Debug\netcoreapp2.1\5_Mordor’s_Cruel_Plan.pdb
