@@ -1,0 +1,10 @@
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\2_Animals\bin\Debug\netcoreapp2.1\2_Animals.deps.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\2_Animals\bin\Debug\netcoreapp2.1\2_Animals.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\2_Animals\bin\Debug\netcoreapp2.1\2_Animals.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\2_Animals\bin\Debug\netcoreapp2.1\2_Animals.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\2_Animals\bin\Debug\netcoreapp2.1\2_Animals.pdb
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\2_Animals\obj\Debug\netcoreapp2.1\2_Animals.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\2_Animals\obj\Debug\netcoreapp2.1\2_Animals.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\2_Animals\obj\Debug\netcoreapp2.1\2_Animals.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\2_Animals\obj\Debug\netcoreapp2.1\2_Animals.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\2_Animals\obj\Debug\netcoreapp2.1\2_Animals.pdb

@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\1_MathOperation\bin\Debug\netcoreapp2.1\1_MathOperation.deps.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\1_MathOperation\bin\Debug\netcoreapp2.1\1_MathOperation.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\1_MathOperation\bin\Debug\netcoreapp2.1\1_MathOperation.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\1_MathOperation\bin\Debug\netcoreapp2.1\1_MathOperation.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\1_MathOperation\bin\Debug\netcoreapp2.1\1_MathOperation.pdb
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\1_MathOperation\obj\Debug\netcoreapp2.1\1_MathOperation.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\1_MathOperation\obj\Debug\netcoreapp2.1\1_MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\1_MathOperation\obj\Debug\netcoreapp2.1\1_MathOperation.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\1_MathOperation\obj\Debug\netcoreapp2.1\1_MathOperation.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\1_MathOperation\obj\Debug\netcoreapp2.1\1_MathOperation.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\1_MathOperation\obj\Debug\netcoreapp2.1\1_MathOperation.pdb

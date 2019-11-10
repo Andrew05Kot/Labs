@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\3_Shapes\bin\Debug\netcoreapp2.1\3_Shapes.deps.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\3_Shapes\bin\Debug\netcoreapp2.1\3_Shapes.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\3_Shapes\bin\Debug\netcoreapp2.1\3_Shapes.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\3_Shapes\bin\Debug\netcoreapp2.1\3_Shapes.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\3_Shapes\bin\Debug\netcoreapp2.1\3_Shapes.pdb
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\3_Shapes\obj\Debug\netcoreapp2.1\3_Shapes.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\3_Shapes\obj\Debug\netcoreapp2.1\3_Shapes.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\3_Shapes\obj\Debug\netcoreapp2.1\3_Shapes.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\3_Shapes\obj\Debug\netcoreapp2.1\3_Shapes.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\3_Shapes\obj\Debug\netcoreapp2.1\3_Shapes.pdb
+C:\Users\andrey\Desktop\C#\лаба8\Laba_8\3_Shapes\obj\Debug\netcoreapp2.1\3_Shapes.csprojAssemblyReference.cache
