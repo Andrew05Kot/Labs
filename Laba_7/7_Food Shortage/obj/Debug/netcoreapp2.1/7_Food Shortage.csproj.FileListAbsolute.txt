@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\7_Food Shortage\bin\Debug\netcoreapp2.1\7_Food Shortage.deps.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\7_Food Shortage\bin\Debug\netcoreapp2.1\7_Food Shortage.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\7_Food Shortage\bin\Debug\netcoreapp2.1\7_Food Shortage.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\7_Food Shortage\bin\Debug\netcoreapp2.1\7_Food Shortage.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\7_Food Shortage\bin\Debug\netcoreapp2.1\7_Food Shortage.pdb
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\7_Food Shortage\obj\Debug\netcoreapp2.1\7_Food Shortage.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\7_Food Shortage\obj\Debug\netcoreapp2.1\7_Food Shortage.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\7_Food Shortage\obj\Debug\netcoreapp2.1\7_Food Shortage.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\7_Food Shortage\obj\Debug\netcoreapp2.1\7_Food Shortage.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\7_Food Shortage\obj\Debug\netcoreapp2.1\7_Food Shortage.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\7_Food Shortage\obj\Debug\netcoreapp2.1\7_Food Shortage.pdb

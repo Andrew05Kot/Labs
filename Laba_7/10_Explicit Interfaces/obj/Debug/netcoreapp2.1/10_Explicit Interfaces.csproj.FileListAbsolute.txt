@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\10_Explicit Interfaces\bin\Debug\netcoreapp2.1\10_Explicit Interfaces.deps.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\10_Explicit Interfaces\bin\Debug\netcoreapp2.1\10_Explicit Interfaces.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\10_Explicit Interfaces\bin\Debug\netcoreapp2.1\10_Explicit Interfaces.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\10_Explicit Interfaces\bin\Debug\netcoreapp2.1\10_Explicit Interfaces.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\10_Explicit Interfaces\bin\Debug\netcoreapp2.1\10_Explicit Interfaces.pdb
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\10_Explicit Interfaces\obj\Debug\netcoreapp2.1\10_Explicit Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\10_Explicit Interfaces\obj\Debug\netcoreapp2.1\10_Explicit Interfaces.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\10_Explicit Interfaces\obj\Debug\netcoreapp2.1\10_Explicit Interfaces.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\10_Explicit Interfaces\obj\Debug\netcoreapp2.1\10_Explicit Interfaces.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\10_Explicit Interfaces\obj\Debug\netcoreapp2.1\10_Explicit Interfaces.pdb
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\10_Explicit Interfaces\obj\Debug\netcoreapp2.1\10_Explicit Interfaces.csprojAssemblyReference.cache

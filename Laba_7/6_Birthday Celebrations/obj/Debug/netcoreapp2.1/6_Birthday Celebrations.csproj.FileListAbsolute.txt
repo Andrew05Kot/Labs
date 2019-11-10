@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\6_Birthday Celebrations\bin\Debug\netcoreapp2.1\6_Birthday Celebrations.deps.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\6_Birthday Celebrations\bin\Debug\netcoreapp2.1\6_Birthday Celebrations.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\6_Birthday Celebrations\bin\Debug\netcoreapp2.1\6_Birthday Celebrations.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\6_Birthday Celebrations\bin\Debug\netcoreapp2.1\6_Birthday Celebrations.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\6_Birthday Celebrations\bin\Debug\netcoreapp2.1\6_Birthday Celebrations.pdb
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\6_Birthday Celebrations\obj\Debug\netcoreapp2.1\6_Birthday Celebrations.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\6_Birthday Celebrations\obj\Debug\netcoreapp2.1\6_Birthday Celebrations.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\6_Birthday Celebrations\obj\Debug\netcoreapp2.1\6_Birthday Celebrations.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\6_Birthday Celebrations\obj\Debug\netcoreapp2.1\6_Birthday Celebrations.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\6_Birthday Celebrations\obj\Debug\netcoreapp2.1\6_Birthday Celebrations.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\6_Birthday Celebrations\obj\Debug\netcoreapp2.1\6_Birthday Celebrations.pdb
