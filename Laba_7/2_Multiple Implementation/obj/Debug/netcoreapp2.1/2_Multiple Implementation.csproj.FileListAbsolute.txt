@@ -1,0 +1,10 @@
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\2_Multiple Implementation\obj\Debug\netcoreapp2.1\2_Multiple Implementation.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\2_Multiple Implementation\obj\Debug\netcoreapp2.1\2_Multiple Implementation.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\2_Multiple Implementation\obj\Debug\netcoreapp2.1\2_Multiple Implementation.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\2_Multiple Implementation\bin\Debug\netcoreapp2.1\2_Multiple Implementation.deps.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\2_Multiple Implementation\bin\Debug\netcoreapp2.1\2_Multiple Implementation.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\2_Multiple Implementation\bin\Debug\netcoreapp2.1\2_Multiple Implementation.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\2_Multiple Implementation\bin\Debug\netcoreapp2.1\2_Multiple Implementation.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\2_Multiple Implementation\bin\Debug\netcoreapp2.1\2_Multiple Implementation.pdb
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\2_Multiple Implementation\obj\Debug\netcoreapp2.1\2_Multiple Implementation.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\2_Multiple Implementation\obj\Debug\netcoreapp2.1\2_Multiple Implementation.pdb

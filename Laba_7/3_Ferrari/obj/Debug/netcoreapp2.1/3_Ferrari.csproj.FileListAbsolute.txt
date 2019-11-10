@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\3_Ferrari\bin\Debug\netcoreapp2.1\3_Ferrari.deps.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\3_Ferrari\bin\Debug\netcoreapp2.1\3_Ferrari.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\3_Ferrari\bin\Debug\netcoreapp2.1\3_Ferrari.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\3_Ferrari\bin\Debug\netcoreapp2.1\3_Ferrari.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\3_Ferrari\bin\Debug\netcoreapp2.1\3_Ferrari.pdb
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\3_Ferrari\obj\Debug\netcoreapp2.1\3_Ferrari.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\3_Ferrari\obj\Debug\netcoreapp2.1\3_Ferrari.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\3_Ferrari\obj\Debug\netcoreapp2.1\3_Ferrari.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\3_Ferrari\obj\Debug\netcoreapp2.1\3_Ferrari.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\3_Ferrari\obj\Debug\netcoreapp2.1\3_Ferrari.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\3_Ferrari\obj\Debug\netcoreapp2.1\3_Ferrari.pdb

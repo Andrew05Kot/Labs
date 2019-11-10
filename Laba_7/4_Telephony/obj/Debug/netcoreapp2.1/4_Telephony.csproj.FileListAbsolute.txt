@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\4_Telephony\bin\Debug\netcoreapp2.1\4_Telephony.deps.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\4_Telephony\bin\Debug\netcoreapp2.1\4_Telephony.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\4_Telephony\bin\Debug\netcoreapp2.1\4_Telephony.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\4_Telephony\bin\Debug\netcoreapp2.1\4_Telephony.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\4_Telephony\bin\Debug\netcoreapp2.1\4_Telephony.pdb
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\4_Telephony\obj\Debug\netcoreapp2.1\4_Telephony.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\4_Telephony\obj\Debug\netcoreapp2.1\4_Telephony.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\4_Telephony\obj\Debug\netcoreapp2.1\4_Telephony.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\4_Telephony\obj\Debug\netcoreapp2.1\4_Telephony.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\4_Telephony\obj\Debug\netcoreapp2.1\4_Telephony.dll
+C:\Users\andrey\Desktop\C#\лаба8\Laba_7\4_Telephony\obj\Debug\netcoreapp2.1\4_Telephony.pdb
