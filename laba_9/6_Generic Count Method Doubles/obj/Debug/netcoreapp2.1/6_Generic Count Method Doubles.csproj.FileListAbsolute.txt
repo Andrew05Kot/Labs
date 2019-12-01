@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\6_Generic Count Method Doubles\bin\Debug\netcoreapp2.1\6_Generic Count Method Doubles.deps.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\6_Generic Count Method Doubles\bin\Debug\netcoreapp2.1\6_Generic Count Method Doubles.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\6_Generic Count Method Doubles\bin\Debug\netcoreapp2.1\6_Generic Count Method Doubles.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\6_Generic Count Method Doubles\bin\Debug\netcoreapp2.1\6_Generic Count Method Doubles.dll
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\6_Generic Count Method Doubles\bin\Debug\netcoreapp2.1\6_Generic Count Method Doubles.pdb
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\6_Generic Count Method Doubles\obj\Debug\netcoreapp2.1\6_Generic Count Method Doubles.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\6_Generic Count Method Doubles\obj\Debug\netcoreapp2.1\6_Generic Count Method Doubles.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\6_Generic Count Method Doubles\obj\Debug\netcoreapp2.1\6_Generic Count Method Doubles.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\6_Generic Count Method Doubles\obj\Debug\netcoreapp2.1\6_Generic Count Method Doubles.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\6_Generic Count Method Doubles\obj\Debug\netcoreapp2.1\6_Generic Count Method Doubles.dll
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\6_Generic Count Method Doubles\obj\Debug\netcoreapp2.1\6_Generic Count Method Doubles.pdb

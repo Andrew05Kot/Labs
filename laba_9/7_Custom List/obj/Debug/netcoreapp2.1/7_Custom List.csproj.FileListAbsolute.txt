@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\7_Custom List\bin\Debug\netcoreapp2.1\7_Custom List.deps.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\7_Custom List\bin\Debug\netcoreapp2.1\7_Custom List.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\7_Custom List\bin\Debug\netcoreapp2.1\7_Custom List.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\7_Custom List\bin\Debug\netcoreapp2.1\7_Custom List.dll
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\7_Custom List\bin\Debug\netcoreapp2.1\7_Custom List.pdb
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\7_Custom List\obj\Debug\netcoreapp2.1\7_Custom List.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\7_Custom List\obj\Debug\netcoreapp2.1\7_Custom List.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\7_Custom List\obj\Debug\netcoreapp2.1\7_Custom List.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\7_Custom List\obj\Debug\netcoreapp2.1\7_Custom List.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\7_Custom List\obj\Debug\netcoreapp2.1\7_Custom List.dll
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\7_Custom List\obj\Debug\netcoreapp2.1\7_Custom List.pdb

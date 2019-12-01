@@ -1,0 +1,10 @@
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\4_Generic Swap Method Integers\bin\Debug\netcoreapp2.1\4_Generic Swap Method Integers.deps.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\4_Generic Swap Method Integers\bin\Debug\netcoreapp2.1\4_Generic Swap Method Integers.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\4_Generic Swap Method Integers\bin\Debug\netcoreapp2.1\4_Generic Swap Method Integers.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\4_Generic Swap Method Integers\bin\Debug\netcoreapp2.1\4_Generic Swap Method Integers.dll
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\4_Generic Swap Method Integers\bin\Debug\netcoreapp2.1\4_Generic Swap Method Integers.pdb
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\4_Generic Swap Method Integers\obj\Debug\netcoreapp2.1\4_Generic Swap Method Integers.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\4_Generic Swap Method Integers\obj\Debug\netcoreapp2.1\4_Generic Swap Method Integers.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\4_Generic Swap Method Integers\obj\Debug\netcoreapp2.1\4_Generic Swap Method Integers.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\4_Generic Swap Method Integers\obj\Debug\netcoreapp2.1\4_Generic Swap Method Integers.dll
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\4_Generic Swap Method Integers\obj\Debug\netcoreapp2.1\4_Generic Swap Method Integers.pdb

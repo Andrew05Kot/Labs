@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\5_Generic Count Method Strings\bin\Debug\netcoreapp2.1\5_Generic Count Method Strings.deps.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\5_Generic Count Method Strings\bin\Debug\netcoreapp2.1\5_Generic Count Method Strings.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\5_Generic Count Method Strings\bin\Debug\netcoreapp2.1\5_Generic Count Method Strings.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\5_Generic Count Method Strings\bin\Debug\netcoreapp2.1\5_Generic Count Method Strings.dll
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\5_Generic Count Method Strings\bin\Debug\netcoreapp2.1\5_Generic Count Method Strings.pdb
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\5_Generic Count Method Strings\obj\Debug\netcoreapp2.1\5_Generic Count Method Strings.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\5_Generic Count Method Strings\obj\Debug\netcoreapp2.1\5_Generic Count Method Strings.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\5_Generic Count Method Strings\obj\Debug\netcoreapp2.1\5_Generic Count Method Strings.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\5_Generic Count Method Strings\obj\Debug\netcoreapp2.1\5_Generic Count Method Strings.dll
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\5_Generic Count Method Strings\obj\Debug\netcoreapp2.1\5_Generic Count Method Strings.pdb
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\5_Generic Count Method Strings\obj\Debug\netcoreapp2.1\5_Generic Count Method Strings.csprojAssemblyReference.cache
