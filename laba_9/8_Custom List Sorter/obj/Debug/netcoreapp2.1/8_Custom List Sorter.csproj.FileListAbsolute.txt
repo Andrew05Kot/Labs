@@ -1,0 +1,10 @@
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\8_Custom List Sorter\bin\Debug\netcoreapp2.1\8_Custom List Sorter.deps.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\8_Custom List Sorter\bin\Debug\netcoreapp2.1\8_Custom List Sorter.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\8_Custom List Sorter\bin\Debug\netcoreapp2.1\8_Custom List Sorter.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\8_Custom List Sorter\bin\Debug\netcoreapp2.1\8_Custom List Sorter.dll
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\8_Custom List Sorter\bin\Debug\netcoreapp2.1\8_Custom List Sorter.pdb
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\8_Custom List Sorter\obj\Debug\netcoreapp2.1\8_Custom List Sorter.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\8_Custom List Sorter\obj\Debug\netcoreapp2.1\8_Custom List Sorter.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\8_Custom List Sorter\obj\Debug\netcoreapp2.1\8_Custom List Sorter.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\8_Custom List Sorter\obj\Debug\netcoreapp2.1\8_Custom List Sorter.dll
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\8_Custom List Sorter\obj\Debug\netcoreapp2.1\8_Custom List Sorter.pdb

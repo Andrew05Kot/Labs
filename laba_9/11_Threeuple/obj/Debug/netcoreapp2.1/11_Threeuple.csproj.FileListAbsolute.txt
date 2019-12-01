@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\11_Threeuple\obj\Debug\netcoreapp2.1\11_Threeuple.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\11_Threeuple\obj\Debug\netcoreapp2.1\11_Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\11_Threeuple\obj\Debug\netcoreapp2.1\11_Threeuple.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\11_Threeuple\obj\Debug\netcoreapp2.1\11_Threeuple.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\11_Threeuple\bin\Debug\netcoreapp2.1\11_Threeuple.deps.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\11_Threeuple\bin\Debug\netcoreapp2.1\11_Threeuple.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\11_Threeuple\bin\Debug\netcoreapp2.1\11_Threeuple.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\11_Threeuple\bin\Debug\netcoreapp2.1\11_Threeuple.dll
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\11_Threeuple\bin\Debug\netcoreapp2.1\11_Threeuple.pdb
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\11_Threeuple\obj\Debug\netcoreapp2.1\11_Threeuple.dll
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\11_Threeuple\obj\Debug\netcoreapp2.1\11_Threeuple.pdb

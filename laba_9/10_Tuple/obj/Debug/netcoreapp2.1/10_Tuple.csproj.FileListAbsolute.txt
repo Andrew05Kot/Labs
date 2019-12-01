@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\10_Tuple\bin\Debug\netcoreapp2.1\10_Tuple.deps.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\10_Tuple\bin\Debug\netcoreapp2.1\10_Tuple.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\10_Tuple\bin\Debug\netcoreapp2.1\10_Tuple.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\10_Tuple\bin\Debug\netcoreapp2.1\10_Tuple.dll
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\10_Tuple\bin\Debug\netcoreapp2.1\10_Tuple.pdb
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\10_Tuple\obj\Debug\netcoreapp2.1\10_Tuple.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\10_Tuple\obj\Debug\netcoreapp2.1\10_Tuple.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\10_Tuple\obj\Debug\netcoreapp2.1\10_Tuple.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\10_Tuple\obj\Debug\netcoreapp2.1\10_Tuple.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\10_Tuple\obj\Debug\netcoreapp2.1\10_Tuple.dll
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\10_Tuple\obj\Debug\netcoreapp2.1\10_Tuple.pdb
