@@ -1,0 +1,11 @@
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\0_Generic_Box\bin\Debug\netcoreapp2.1\0_Generic_Box.deps.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\0_Generic_Box\bin\Debug\netcoreapp2.1\0_Generic_Box.runtimeconfig.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\0_Generic_Box\bin\Debug\netcoreapp2.1\0_Generic_Box.runtimeconfig.dev.json
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\0_Generic_Box\bin\Debug\netcoreapp2.1\0_Generic_Box.dll
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\0_Generic_Box\bin\Debug\netcoreapp2.1\0_Generic_Box.pdb
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\0_Generic_Box\obj\Debug\netcoreapp2.1\0_Generic_Box.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\0_Generic_Box\obj\Debug\netcoreapp2.1\0_Generic_Box.AssemblyInfoInputs.cache
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\0_Generic_Box\obj\Debug\netcoreapp2.1\0_Generic_Box.AssemblyInfo.cs
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\0_Generic_Box\obj\Debug\netcoreapp2.1\0_Generic_Box.dll
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\0_Generic_Box\obj\Debug\netcoreapp2.1\0_Generic_Box.pdb
+C:\Users\andrey\Desktop\C#\лаба9\laba_9\0_Generic_Box\obj\Debug\netcoreapp2.1\0_Generic_Box.csprojAssemblyReference.cache
